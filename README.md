@@ -25,4 +25,9 @@ The Hugging Face transformers package is an immensely popular python library pro
 - **Pipeline** : A pipeline chains multiple transformers and estimators together to estimate an ML workflow
 - **Estimator** : An estimator is an algorithm that can fit on a DataFrame to produce a transformer
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Hugging Face Pipelines
+
+The pipelines are a great and easy way to use models for inference. This pipelines are objects that abstract most of the complex codes from the library offering a simple API dedicated to several tasks
+
 
