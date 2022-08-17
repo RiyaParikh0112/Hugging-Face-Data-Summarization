@@ -17,3 +17,6 @@ This is a NLP technique and it is basically of 2 types:
 ### Transformer Package - Hugging Face
 
 The Hugging Face transformers package is an immensely popular python library provided pre-trained models that are extraordinarly useful for Natural Language Processing(NLP). And it is supported by both PyTorch and Tensorflow
+
+![Transformer](https://i.ibb.co/V30Wc9L/Untitled-Artwork-4.png)
+
