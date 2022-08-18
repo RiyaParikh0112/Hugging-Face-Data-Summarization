@@ -30,4 +30,6 @@ The Hugging Face transformers package is an immensely popular python library pro
 
 The pipelines are a great and easy way to use models for inference. This pipelines are objects that abstract most of the complex codes from the library offering a simple API dedicated to several tasks
 
+**Inference** is the process of using a trained machine learning algorithm to make useful predictions
+
 
